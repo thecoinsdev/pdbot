@@ -1,0 +1,3 @@
+RewriteEngine On 
+Options +FollowSymLinks
+Redirect /MaterialBlack/sprite.png /sprite.png
